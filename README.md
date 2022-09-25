@@ -26,3 +26,11 @@ R: Com o versionamento de software, é possível criar pequenas versões interna
 
 6 Cite pelo menos três ferramentas de controle de versão e faça um breve
 detalhamento sobre cada uma delas.
+R: 
+ 1. CVS: A CVS é uma das ferramentas de controle de software mais antigas no mercado. A primeira versão dela foi desenvolvida em 1968. Essa ferramenta possui como maior desvantagem o fato de ser considerada como uma tecnologia antiga. Porém, ainda é bastante utilizada por equipes de desenvolvedores.
+
+É muito simples de ser operada. Isso significa que a sua equipe pode aprender rapidamente como usar todas as funcionalidades da CVS com eficiência.
+ 
+ 2. Subversion: No meio corporativo, o Subversion é uma ferramenta de controle de versão de software bastante utilizada. Ela é bastante rápida na execução das funcionalidades do sistema e ainda se mostra como uma das mais simples de ser empregada. Isso significa que com um conhecimento básico de conceitos relacionados ao controle de versão de software é possível executar comandos na ferramenta. A aprendizagem da equipe também é rápida nesse aspecto.
+
+ 3. Mercurial: O Mercurial é a ferramenta de controle de versão de software utilizada por grandes empresas como o Facebook e Google. Ela é bastante eficiente, o que significa que consegue desempenhar bem as funções básicas de um bom controle de software.
