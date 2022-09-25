@@ -11,8 +11,10 @@ R: É o sistema de controle de versão open source mais usado no mundo atualment
 R: Ferramenta para facilitar o trabalho, o ideal é usar uma ferramenta de versionamento. Ela gerencia todo o ciclo de vida do trabalho, ou seja, guarda o histórico (ou versão) de cada documento (imagem, código, PDF, entre outros) do projeto
 
 3 Por que utilizar o Git como controle de versionamento?
+R: o Git registra as mudanças que ocorrem no código-fonte de um projeto. Logo, permite que os arquivos sejam alterados de forma simultânea, por inúmeras pessoas, sem a preocupação que essas alterações sejam sobrescritas umas pelas outras
 
-4 Quais as vantagens do Git
+
+4 Quais as vantagens do Git?
 
 5 Qual a importância da utilização do controle de versionamento no
 desenvolvimento de um software?
