@@ -5,6 +5,7 @@ Academico: Izaque Luiz de Castro
 RA: 09021293
 
 1 O que é o Git
+R: É o sistema de controle de versão open source mais usado no mundo atualmente! Ele é usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software
 
 2 O que é versionamento de
 
