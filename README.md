@@ -22,6 +22,7 @@ Segurança: Uma das prioridades é a integridade do código fonte do seu projeto
 
 5 Qual a importância da utilização do controle de versionamento no
 desenvolvimento de um software?
+R: Com o versionamento de software, é possível criar pequenas versões internas, na qual cada um dos programadores fará suas alterações sem se preocupar com os demais membros do time. Isso porque cada versão é isolada, evitando problemas.
 
 6 Cite pelo menos três ferramentas de controle de versão e faça um breve
 detalhamento sobre cada uma delas.
